@@ -1,1 +1,2 @@
-this is testing
+this is testing;
+Creating a branch is quick & simple
